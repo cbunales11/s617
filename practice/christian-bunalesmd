@@ -1,0 +1,5 @@
+git config user.name "your-user-name"
+git config user.email "yournumber+your-noreply-email@user.noreply.github.com"
+touch practice/your-name.md
+git add practice/your-name.md
+git commit -m "Add my practice file"
